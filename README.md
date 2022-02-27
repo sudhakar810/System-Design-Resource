@@ -10,6 +10,8 @@ https://github.com/donnemartin/system-design-primer
 
 
 # LLD 
+https://github.com/topics/low-level-design
+
 https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
 https://github.com/kumaransg/LLD
 https://www.java67.com/2018/05/top-20-system-design-interview-questions-answers-programming.html

@@ -1,6 +1,8 @@
 # System-Design-Resource
 
-#
+# Basics and Intoduction https://www.hiredintech.com/classrooms/system-design/lesson/52
+
+# Resources
 https://github.com/checkcheckzz/system-design-interview
 
 http://blog.gainlo.co/index.php/category/system-design-interview-questions/

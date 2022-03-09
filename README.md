@@ -7,6 +7,9 @@ http://blog.gainlo.co/index.php/category/system-design-interview-questions/
 
 https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0
 
+# Cheatsheet
+https://gist.github.com/vasanthk/485d1c25737e8e72759f
+
 # HLD
 https://leetcode.com/discuss/interview-question/system-design/457451/Resources-for-System-Design
  

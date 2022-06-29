@@ -37,6 +37,8 @@ These include YouTube videos/playlists/channels. I've not mentioned articles sin
 
 These are the best resources for System Design on the Internet
 
+https://github.com/codersguild/System-Design
+
 Transcoding Videos at Scale: https://www.egnyte.com/blog/2018/12/transcoding-how-we-serve-videos-at-scale/
 
 AirBnb Idempotency: https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
